@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>GovTool Test Reports</title>
+    <title>Convention Voting App Testing Reports</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
@@ -87,7 +87,7 @@
 
       async function fetchAllProjects() {
         const res = await fetch(
-          "https://intersectmbo.github.io/govtool-test-reports/projects.txt",
+          "./projects.txt",
           {
             headers: {
               Accept: "text/plain",
@@ -99,7 +99,7 @@
       }
 
       function navigateToReport(reportName) {
-        window.location.href = `/govtool-test-reports/${reportName}`;
+        window.location.href = `./${reportName}`;
       }
 
       function renderProjectList(projects) {
