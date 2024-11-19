@@ -1,6 +1,0 @@
-Opening new tab for button with test id: representative-vote-2
-Opened new tab for: /representatives/2
-Opening new tab for button with test id: representative-vote-9
-Opened new tab for: /representatives/9
-Opening new tab for button with test id: representative-vote-11
-Opened new tab for: /representatives/11
