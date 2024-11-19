@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"1","0. All Users","0","","4","0","","0"
+"0","4. Wallet connect","0","","2","0","","0"
+"0","Setup","0","","11","0","Authentication","0"
+"0","5. Miscellaneous","0","5B. Should be accessible from tablet","2","0","4. Wallet connect","0"
+"0","5. Miscellaneous","0","5A. Should be accessible from mobile","2","0","4. Wallet connect","0"
