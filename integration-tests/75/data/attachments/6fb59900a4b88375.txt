@@ -1,0 +1,7 @@
+Upload votes button clicked!!
+✔ Transaction submitted:04f68249df722cd5071d0163fc0e48b0acee08d0aa361792baa12cd5ef7cb22d
+ℹ Waiting for tx completion: 04f68249df722cd5071d0163fc0e48b0acee08d0aa361792baa12cd5ef7cb22d
+✔ Transaction submitted:19afb4e2398630375d2966c4b13a1494a08b652263b57f8acef99b504ff08bcc
+✔ Tx completed: 04f68249df722cd5071d0163fc0e48b0acee08d0aa361792baa12cd5ef7cb22d
+ℹ Waiting for tx completion: 19afb4e2398630375d2966c4b13a1494a08b652263b57f8acef99b504ff08bcc
+✔ Tx completed: 19afb4e2398630375d2966c4b13a1494a08b652263b57f8acef99b504ff08bcc

@@ -1,0 +1,7 @@
+Upload votes button clicked!!
+✔ Transaction submitted:ef87fb9d390e5d33f94473a52358bcb2412018a2702c9c93ac74706b1b9b69b3
+ℹ Waiting for tx completion: ef87fb9d390e5d33f94473a52358bcb2412018a2702c9c93ac74706b1b9b69b3
+✔ Transaction submitted:6e6d0cb33de92a4758c0bae700148c2c5bc53a934eebbd57e75793672ee97bf0
+✔ Tx completed: ef87fb9d390e5d33f94473a52358bcb2412018a2702c9c93ac74706b1b9b69b3
+ℹ Waiting for tx completion: 6e6d0cb33de92a4758c0bae700148c2c5bc53a934eebbd57e75793672ee97bf0
+✔ Tx completed: 6e6d0cb33de92a4758c0bae700148c2c5bc53a934eebbd57e75793672ee97bf0
