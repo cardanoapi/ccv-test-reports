@@ -1,0 +1,8 @@
+ℹ Current page Url: https://ccv.cardanoapi.io/polls/2549
+Upload votes button clicked!!
+✔ Transaction submitted:9ecd4daaf2717a3d0aa3f9643470f3602ed0f24650320534086fc50dc46bff48
+ℹ Waiting for tx completion: 9ecd4daaf2717a3d0aa3f9643470f3602ed0f24650320534086fc50dc46bff48
+✔ Transaction submitted:f4edd8e9cf49501c1f313c3ce4ee6f1794828ea1a6ea5c8e01d16b1bd7d6aeed
+✔ Tx completed: 9ecd4daaf2717a3d0aa3f9643470f3602ed0f24650320534086fc50dc46bff48
+ℹ Waiting for tx completion: f4edd8e9cf49501c1f313c3ce4ee6f1794828ea1a6ea5c8e01d16b1bd7d6aeed
+✔ Tx completed: f4edd8e9cf49501c1f313c3ce4ee6f1794828ea1a6ea5c8e01d16b1bd7d6aeed
