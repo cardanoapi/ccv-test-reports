@@ -1,0 +1,3 @@
+ℹ Current page Url: https://ccv.cardanoapi.io/polls/2594
+Upload votes button clicked!!
+✖ Unexpected token S in JSON at position 0
