@@ -1,2 +1,0 @@
-ℹ Current page Url: https://ccv.cardanoapi.io/polls/2768
-ok:  2768
