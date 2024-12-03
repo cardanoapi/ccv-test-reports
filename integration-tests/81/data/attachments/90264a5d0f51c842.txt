@@ -1,0 +1,2 @@
+ℹ Current page Url: https://ccv.cardanoapi.io/polls/2951
+PageUrl after wait : https://ccv.cardanoapi.io/
