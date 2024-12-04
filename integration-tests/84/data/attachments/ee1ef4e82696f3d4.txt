@@ -1,0 +1,8 @@
+ℹ Current page Url: https://ccv.cardanoapi.io/polls/293
+Opening new tab for button with test id: representative-vote-13
+Opened new tab for: /representatives/13
+Opening new tab for button with test id: representative-vote-14
+Opened new tab for: /representatives/14
+Opening new tab for button with test id: representative-vote-15
+Opened new tab for: /representatives/15
+PageUrl after wait : https://ccv.cardanoapi.io/
